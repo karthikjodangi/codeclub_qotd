@@ -1,3 +1,4 @@
+// Count Increasing Sub-Arrays.
 #include<bits/stdc++.h>
 using namespace std;
 
