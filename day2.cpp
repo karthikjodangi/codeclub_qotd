@@ -1,3 +1,4 @@
+//convert to decimal (set bits of a given number)
 #include <bits/stdc++.h>
 using namespace std;
 
